@@ -74,6 +74,10 @@ CSS STRUCTURE:
 		font-size: 15px;
 	}
 
+	.options{
+		margin:auto;
+	}
+
 		.five-dollar{
 			width:250px;
 			text-align: center;
@@ -135,6 +139,7 @@ CSS STRUCTURE:
 				border:1px #EDEDED solid;
 				height: 65px;
 				background:white;
+				margin-bottom: 80px;
 
 			}
 
@@ -167,4 +172,71 @@ CSS STRUCTURE:
 				background: black;
 				color: white;
 				border: solid #EDEDED 1px;
-	}
+			}
+
+			.bottom{
+				margin: 0 auto;
+				line-height: 2;
+			}
+
+			.bottom div{
+				/*margin-left:250px;*/
+				margin-top: 0px;
+				font-size: 13px;
+
+			}
+
+			.bottom p{
+				font-size: 16px;
+				margin-top: 0;
+
+			}
+
+			.get-started{
+				width: 375px;
+				height:200px;
+				float:left;
+				margin: auto;
+				margin-left:260px;
+
+			}
+
+			.pay-monthly{
+				width: 375px;
+				height:200px;
+				float:left;
+				margin-left: 30px;
+
+
+			}
+
+			.customer-support{
+				width: 375px;
+				height:200px;
+				float:left;
+				margin-left:260px;
+
+			}
+
+			.cancel-your-plan{
+				width: 375px;
+				height:200px;
+				float:left;
+				margin-left: 30px;
+
+			}
+
+			.footer{
+				clear:left;
+				background: black;
+				color: grey;
+				padding-left: 400px;
+				height: 40px;
+				padding-top: 15px;
+				padding-bottom: 5px;
+
+			}
+
+			.footer a{
+				color: white;
+			}
