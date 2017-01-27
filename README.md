@@ -3,7 +3,8 @@
 
 *My first creation of a webpage mock-up. I've included the target webpage as well so feel free to take a look and compare.*
 
-What i've learned with during this project:
+
+What i've learned during this project:
 
 #HTML
 * Practiced typing a full page into HTML form scratch.
