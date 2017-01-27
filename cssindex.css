@@ -75,10 +75,10 @@ CSS STRUCTURE:
 	}
 
 		.five-dollar{
-			width:245px;
+			width:250px;
 			text-align: center;
 			float: left;
-			margin-left: 255px;
+			margin-left: 250px;
 			margin-right:15px;
 
 
@@ -100,8 +100,9 @@ CSS STRUCTURE:
 				border: #EDEDED 1px solid;
 				border-top:transparent;
 				list-style-type: none;
-				height: 40px;
+				height: 30px;
 				font-size: 14px;
+				padding-top:15px;
 
 			}
 
@@ -111,33 +112,34 @@ CSS STRUCTURE:
 			}
 
 			.choose{
-				background:white;
-				height: 70px;
-				margin:auto;
-			  border: #EDEDED 1px solid;
-				width: 70px;
-				height: 28px;
-				border-radius: 20px;
-				font-size:14px;
-				font-weight:bold;
+	    background: white;
+	    height: 70px;
+	    margin: 15px auto;
+	    border: #EDEDED 2px solid;
+	    width: 70px;
+	    height: 17px;
+	    border-radius: 20px;
+	    font-size: 14px;
+	    font-weight: bold;
+	    padding: 5px 5px;
 			}
 
 
 			.choose a{
 				text-decoration: none;
 				color:black;
+
 			}
 
 			.choose-border{
 				border:1px #EDEDED solid;
-				border-top: transparent;
 				height: 65px;
 				background:white;
 
 			}
 
 			.twentyfive-dollar{
-				width:245px;
+				width:250px;
 				text-align: center;
 				float: left;
 				margin-right:15px;
@@ -153,10 +155,10 @@ CSS STRUCTURE:
 			}
 
 			.fortyfive-dollar{
-				width:245px;
+				width:250px;
 				text-align: center;
 				float: left;
-				margin-right: 255px;
+				margin-right: 250px;
 
 			}
 
